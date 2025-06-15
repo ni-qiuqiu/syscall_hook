@@ -1,0 +1,5 @@
+_printk
+memstart_addr
+register_kprobe
+strncpy_from_user
+unregister_kprobe
